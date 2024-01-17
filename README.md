@@ -1,1 +1,1 @@
-# siccobankphish
+# siccobank
