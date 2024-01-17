@@ -1,0 +1,1 @@
+document.getElementById("employee-id-form").addEventListener("submit", function (event) { event.preventDefault(); showPopup(); }); function showPopup() { document.getElementById("popup").style.display = "block"; } document.getElementById("popup-close").addEventListener("click", function () { document.getElementById("popup").style.display = "none"; });

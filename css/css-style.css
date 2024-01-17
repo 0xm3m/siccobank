@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'KoufiyaLT';
+    src: url('../fonts/KoufiyaLT-Regular-KoufiyaLT-Regular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+.arabic-content-container {
+	font-family: 'KoufiyaLT', 'Scuba Offc', Helvetica, Arial, sans-serif;
+	text-align: right;
+	font-size: 18px;
+	direction: rtl;
+}
+
